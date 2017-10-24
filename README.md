@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stock
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.1.
@@ -26,3 +27,10 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+1. Typescript setup
+https://www.codingforentrepreneurs.com/blog/typescript-setup-guide/
+
+2. Angular setup:
+https://www.codingforentrepreneurs.com/blog/angular-setup-guide/
+>>>>>>> 7dffbe257382b9f0f71ef895b1b7753db1e1ecff
